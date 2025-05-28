@@ -1,7 +1,9 @@
 # React + Vite
 
 To start this React APP:
+
 npm install
+
 npm run start
 
 visit : http://localhost:5173/
